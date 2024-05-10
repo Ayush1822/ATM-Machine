@@ -1,25 +1,96 @@
-# ATM-Machine
-A miniproject on implementing operations of ATM Machine which includes Deposit, withdraw of amount and balance enquiry of an account using C.
+Introduction to ATM
+Management System
 
-## Features
+The ATM (Automated Teller Machine) management system is a crucial
+component of modern banking infrastructure. It enables customers to perform
+various financial transactions, such as withdrawals, deposits, and balance
+inquiries, without the need for direct interaction with a bank teller.
 
-Since it is an ATM Machine. Initially I declared some of the accounts and initialized the amount to zero. And doing following operations on that account.
 
-1) Deposit
+ATM Withdrawal
+Process
 
-2) Withdrawal
+1
 
-3) Balance Enquiry
+Card Insertion
 
-## Modules
+The customer inserts their debit or credit card into the ATM to initiate the
+withdrawal process.
 
-1) Validation
+2
 
-2) Deposit
- 
-3) Withdrawal
+PIN Verification
 
-4) Balance Enquiry
+The customer enters their personal identification number (PIN) to authenticate their
+identity and access their account.
+
+3
+
+Amount Selection
+
+The customer selects the desired withdrawal amount from the available options on
+the ATM interface.
+
+ATM Deposit Process
+
+Card Insertion
+
+The customer inserts their debit or credit card into the ATM to initiate the deposit
+process.
+
+Cash Insertion
+
+The customer inserts the cash they wish to deposit into the designated slot on the
+ATM.
+
+Confirmation
+
+The ATM verifies the deposit amount and updates the customer's account balance
+accordingly.
+
+ATM Balance Inquiry
+
+Card Insertion
+
+The customer inserts their
+debit or credit card into the
+ATM to access their account
+information.
+
+PIN Verification
+
+The customer enters their
+personal identification number
+(PIN) to authenticate their
+identity and access their
+account details.
+
+Balance Display
+
+The ATM retrieves the
+customer's current account
+balance and displays it on the
+screen for the customer to
+view.
+
+Withdrawal
+
+The ATM logs all withdrawal
+transactions, including the date,
+time, and amount.
+
+Deposit
+
+The ATM records all deposit
+transactions, including the date,
+time, and amount.
+
+Balance Inquiry
+
+The ATM tracks all balance
+inquiry transactions, allowing
+customers to review their account
+history.
 
 Logic Gates
 Explained
