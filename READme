@@ -20,3 +20,61 @@ Since it is an ATM Machine. Initially I declared some of the accounts and initia
 3) Withdrawal
 
 4) Balance Enquiry
+
+Logic Gates
+Explained
+
+AND Gate
+
+The AND gate is used to
+combine multiple conditions,
+ensuring that all inputs must be
+true for the output to be true.
+
+OR Gate
+
+The OR gate is used to check if
+at least one of the multiple
+conditions is true, allowing for
+more flexible decision-making.
+
+NOT Gate
+
+The NOT gate is used to negate
+the input, reversing the true/false
+value and enabling more
+complex logical operations.
+
+Overview of C Code
+
+1
+
+Modular Design
+
+The ATM management
+system is typically
+developed using modular C
+code, allowing for easy
+maintenance and
+scalability.
+
+2
+
+Input Validation
+
+The C code ensures robust
+input validation to prevent
+unauthorized access and
+secure customer
+transactions.
+
+3
+
+Database
+Integration
+
+The C code integrates with
+the bank's database to
+retrieve and update
+customer account
+information seamlessly.
